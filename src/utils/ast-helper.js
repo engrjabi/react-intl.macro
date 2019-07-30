@@ -1,7 +1,7 @@
 // @flow
 import * as R from 'ramda';
 import { type BabelPath } from 'babel-flow-types';
-import printICUMessage from 'babel-plugin-react-intl/lib/print-icu-message';
+import printICUMessage from 'babel-plugin-react-intl/dist/print-icu-message';
 // import printAST from 'ast-pretty-print';
 
 /**

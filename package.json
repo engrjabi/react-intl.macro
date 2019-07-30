@@ -1,6 +1,6 @@
 {
-  "name": "react-intl.macro",
-  "version": "0.3.6",
+  "name": "@engrjabi/react-intl.macro",
+  "version": "0.3.7",
   "main": "lib/index.js",
   "module": "es/index.js",
   "sideEffects": false,
@@ -83,12 +83,12 @@
   "author": "Michael Hsu <evenchange4@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/evenchange4/react-intl.macro/issues",
+    "url": "https://github.com/engrjabi/react-intl.macro/issues",
     "email": "evenchange4@gmail.com"
   },
-  "homepage": "https://github.com/evenchange4/react-intl.macro#readme",
+  "homepage": "https://github.com/engrjabi/react-intl.macro#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evenchange4/react-intl.macro.git"
+    "url": "https://github.com/engrjabi/react-intl.macro.git"
   }
 }
